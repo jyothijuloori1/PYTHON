@@ -1,0 +1,6 @@
+city=input("enter your city")
+state=input("enter your state")
+colony=input("enter your colony")
+h_no=input("enter house number")
+pincode=input()
+print(f"{city},{state},{colony},{h_no},{pincode}")
